@@ -1,0 +1,13 @@
+name: chemRICH
+title: chemRICH
+username: chrisbrydges
+account: chrisbrydges
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9692690
+bundleId:
+url: https://chrisbrydges.shinyapps.io/chemRICH/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ChemRICH_bubble_plots.pptx|ChemRICH_heatmap.png|ChemRICH_results.xlsx
